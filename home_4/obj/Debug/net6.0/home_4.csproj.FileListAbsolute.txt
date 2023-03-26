@@ -1,0 +1,15 @@
+C:\Users\evgen\Desktop\Lesson_4\home_4\bin\Debug\net6.0\home_4.exe
+C:\Users\evgen\Desktop\Lesson_4\home_4\bin\Debug\net6.0\home_4.deps.json
+C:\Users\evgen\Desktop\Lesson_4\home_4\bin\Debug\net6.0\home_4.runtimeconfig.json
+C:\Users\evgen\Desktop\Lesson_4\home_4\bin\Debug\net6.0\home_4.dll
+C:\Users\evgen\Desktop\Lesson_4\home_4\bin\Debug\net6.0\home_4.pdb
+C:\Users\evgen\Desktop\Lesson_4\home_4\obj\Debug\net6.0\home_4.csproj.AssemblyReference.cache
+C:\Users\evgen\Desktop\Lesson_4\home_4\obj\Debug\net6.0\home_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evgen\Desktop\Lesson_4\home_4\obj\Debug\net6.0\home_4.AssemblyInfoInputs.cache
+C:\Users\evgen\Desktop\Lesson_4\home_4\obj\Debug\net6.0\home_4.AssemblyInfo.cs
+C:\Users\evgen\Desktop\Lesson_4\home_4\obj\Debug\net6.0\home_4.csproj.CoreCompileInputs.cache
+C:\Users\evgen\Desktop\Lesson_4\home_4\obj\Debug\net6.0\home_4.dll
+C:\Users\evgen\Desktop\Lesson_4\home_4\obj\Debug\net6.0\refint\home_4.dll
+C:\Users\evgen\Desktop\Lesson_4\home_4\obj\Debug\net6.0\home_4.pdb
+C:\Users\evgen\Desktop\Lesson_4\home_4\obj\Debug\net6.0\home_4.genruntimeconfig.cache
+C:\Users\evgen\Desktop\Lesson_4\home_4\obj\Debug\net6.0\ref\home_4.dll
